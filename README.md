@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Abhilash M S ,BE in telecom
-- 👀 I’m interested in networking , server administration , Solution Architect , Cloud & devops.
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on jobs in cloudand devops
-- 
+- 👋 Hi, I’m Abhilash M S from Bangalore, India.
+- 👀 I’m looking at cloud and devops.
+- ***Technology Explorer*** 
 
 <!---
 lash623/lash623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
